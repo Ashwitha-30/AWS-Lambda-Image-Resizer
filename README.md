@@ -1,0 +1,1 @@
+# AWS-Lambda-Image-Resizer
