@@ -24,5 +24,4 @@ This is a **serverless image resizing application** built using AWS Lambda, S3, 
 3. Configure S3 event trigger for `PUT` operations.
 4. Upload an image and check the destination bucket.
 
-## Author
-Ashu (Cloud & DevOps Enthusiast)
+
