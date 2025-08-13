@@ -135,7 +135,7 @@ Bucket: my-original-images-bucket.
 Event: PUT (Object Created).
 
 Save.
----------------------------------------------------------------------------------------------
+
 
 ✅ Now, whenever you upload a .jpg or .png to my-original-images-bucket,
 Lambda will resize it to 200x200 and upload it to my-resized-images-bucket.
